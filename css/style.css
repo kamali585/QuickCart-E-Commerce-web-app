@@ -1,0 +1,46 @@
+body{
+font-family: Arial;
+margin:0;
+background:#f4f6f9;
+}
+
+.login-container{
+width:350px;
+margin:120px auto;
+padding:40px;
+background:white;
+border-radius:8px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+text-align:center;
+}
+
+.login-container input{
+width:100%;
+padding:12px;
+margin:10px 0;
+border:1px solid #ccc;
+border-radius:5px;
+}
+
+.login-container button{
+width:100%;
+padding:12px;
+background:#007bff;
+color:white;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+
+.navbar{
+background:#1f2d3d;
+color:white;
+padding:15px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+.dashboard-container{
+padding:20px;
+}
